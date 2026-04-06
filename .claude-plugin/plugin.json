@@ -1,0 +1,19 @@
+{
+  "name": "guara",
+  "description": "Skills for deploying and managing applications on GuaraCloud PaaS using the guara CLI",
+  "version": "1.0.0",
+  "author": {
+    "name": "GuaraCloud"
+  },
+  "homepage": "https://guaracloud.com",
+  "repository": "https://github.com/guaracloud/agent-skills",
+  "license": "Apache-2.0",
+  "keywords": [
+    "guaracloud",
+    "paas",
+    "deploy",
+    "cli",
+    "kubernetes",
+    "cloud"
+  ]
+}
